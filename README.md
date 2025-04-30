@@ -20,6 +20,7 @@ KitchenMatchMaker is a React-based web application designed to help users manage
 5. [Key Commands](#key-commands)
 6. [Working with the Project](#working-with-the-project)
 7. [Troubleshooting](#troubleshooting)
+8. [Diagram](#diagram)
 
 ---
 
@@ -127,3 +128,9 @@ yarn test
   ```bash
   PORT=3001 npm start
   ```
+
+---
+
+## Diagram
+
+![Project Diagram](diagram.png)
